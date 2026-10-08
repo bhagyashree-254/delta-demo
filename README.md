@@ -1,2 +1,2 @@
 # delta-demo
-This is a demo for Git &amp; ithub module.
+This is a demo for Git &amp; Github module.,
